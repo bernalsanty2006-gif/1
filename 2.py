@@ -1,6 +1,4 @@
-<<<<<<< HEAD
-print("hola")
-=======
 print("hola")
 print("chao")
->>>>>>> rama1
+
+print("este cambio va en develope")
